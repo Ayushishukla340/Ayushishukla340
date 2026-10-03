@@ -1,61 +1,83 @@
+
 # Hi, I'm Ayushi Shukla 👋
 
-### 💻 Software Developer | Full Stack Developer | BTech CSE (AI)
+### Aspiring Software Developer | Full Stack Development | B.Tech CSE (AI), 2027
 
-I'm a Computer Science and Engineering (Artificial Intelligence) student at Babu Banarasi Das University, Lucknow, passionate about building practical web applications and backend systems.
+I'm a Computer Science and Engineering (Artificial Intelligence) student at **Babu Banarasi Das University, Lucknow**. I enjoy building practical web applications, developing backend APIs, and learning technologies through hands-on projects.
 
-I enjoy turning ideas into functional applications and continuously improving my skills through hands-on projects.
-
----
-
-## 👩‍💻 About Me
-
-* 🎓 B.Tech CSE (Artificial Intelligence) | 2023–2027
-* 💻 Interested in Full Stack & Software Development
-* 🌱 Currently strengthening my skills in React.js, Node.js, Express.js and ASP.NET Core
-* 🐍 Working with Python and exploring Data Science & AI
-* 🔧 Interested in REST APIs, databases and backend development
-* 🚀 Building real-world projects through hands-on development
-* 💼 Open to Software Development & Full Stack Internship opportunities
+- 🎓 B.Tech CSE (AI), 2023–2027
+- 💻 Interested in Software Development and Full Stack Development
+- 🌱 Currently strengthening my skills in React.js, Node.js, Express.js, and ASP.NET Core
+- 🐍 Exploring Python, Data Science, and AI
+- 🔧 Interested in REST APIs, databases, and backend development
+- 🚀 Learning by building practical projects
+- 💼 Open to Software Development and Full Stack Internship opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
+**Languages**  
+C · Python · JavaScript · C# · SQL
 
-`C` `Python` `JavaScript` `C#` `SQL`
+**Frontend Development**  
+HTML5 · CSS3 · React.js · Vite · Tailwind CSS
 
-**Frontend**
+**Backend Development**  
+Node.js · Express.js · ASP.NET Core · REST APIs
 
-`HTML5` `CSS3` `React.js` `Vite` `Tailwind CSS`
+**Databases**  
+MongoDB · MySQL · SQL Server
 
-**Backend**
+**Libraries & Technologies**  
+Mongoose · Axios · Entity Framework Core · JWT · bcrypt
 
-`Node.js` `Express.js` `ASP.NET Core` `REST APIs`
+**Data Science & AI**  
+NumPy · Pandas · Matplotlib · Machine Learning (Learning)
 
-**Databases**
-
-`MongoDB` `MySQL` `SQL Server`
-
-**Libraries & Technologies**
-
-`Mongoose` `Axios` `Entity Framework Core` `JWT` `bcrypt`
-
-**Data & AI**
-
-`NumPy` `Pandas` `Matplotlib` `Machine Learning`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Postman`
+**Tools**  
+Git · GitHub · VS Code · Postman
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩸 LifeLink – AI-Enabled Blood Donation Platform
+### 🩸 LifeLink — AI-Enabled Blood Donation Platform
 
-A full-stack platform focused on connecting blood donors, patients and hospitals to make blood discovery and blood requests more convenient.
+A full-stack blood donation platform designed to help connect blood donors and patients and make blood requests easier to manage.
 
-**Tech Stack:** React.js • Vite • Tailwind CS
+**Key areas:** Donor registration, patient registration, donor discovery, and blood requests.
+
+**Tech Stack:** React.js, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, Axios
+
+🔗 [View Repository](https://github.com/Ayushishukla340/LifeLink)
+
+### 🎓 Placement Management System
+
+A placement management application developed to organize placement-related information and workflows through a web API.
+
+**Tech Stack:** C#, ASP.NET Core Web API, Entity Framework Core, SQL Server
+
+🔗 [View Repository](https://github.com/Ayushishukla340/placement-management-system)
+
+---
+
+## 📚 Currently Learning
+
+- Building full-stack applications
+- Backend development and REST API design
+- Database design and integration
+- Data Science and AI fundamentals
+- Writing clean, maintainable code
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Ayushi Shukla](https://linkedin.com/in/ayushi-shukla-a4b196280)
+- 📧 Email: [ayushishukla19082004@gmail.com](mailto:ayushishukla19082004@gmail.com)
+- 🐙 GitHub: [Ayushishukla340](https://github.com/Ayushishukla340)
+
+---
+
+*Always learning, building, and improving.*
